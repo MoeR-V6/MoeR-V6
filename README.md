@@ -1,5 +1,5 @@
 ---
-Tags: Graffiti, Rhythm, Heterotopia, Space
+Tags: Calligraffiti, Heterotopia, Rhythm, Space
 ---
 
 <img src="https://user-images.githubusercontent.com/55648912/206408779-03f214a7-2c05-43bd-97d1-ab9fd15d0b1a.png" width="50%" height="50%"> 
