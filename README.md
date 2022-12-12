@@ -9,7 +9,12 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 
 ---
 
-## Selected Articles
+## Selected Works
+### **2019** 
+#### WJEC-5th (Paris) | [Excellence in Short Form Documentary](http://www.wjec.paris/5492-2/)
+
+<img src="https://user-images.githubusercontent.com/55648912/206611539-552919e1-19e2-469d-be1e-f557f5cf91a3.JPG" width="50%" height="50%">
+
 ### **2020**
 #### The Web of Phronesis (Hangzhou)｜CAA-INS(中國美術學院 網絡社會研究所) 
 ### **2021**
@@ -18,13 +23,6 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 ### **2022**
 #### Communication Research in the Era of Neo-Globalisation (IAMCR, Beijing)｜[Abstract](https://iamcr.org/beijing2022/abstract-books)
 #### The intersections of history, culture, digital technology and journalism (HODJ, Budapest) ｜ [Abstract](https://drive.google.com/file/d/1UuTDLLGwZ0i08he9-FOGDMuOze6Nz7Tz/view)
-## Award
-### **2019** 
-#### WJEC-5th (Paris) | [Excellence in Short Form Documentary](http://www.wjec.paris/5492-2/)
-
-<img src="https://user-images.githubusercontent.com/55648912/206611539-552919e1-19e2-469d-be1e-f557f5cf91a3.JPG" width="50%" height="50%">
-
-### **2022**
-#### ICA-72nd (Paris) | [One World, One Network ‽](https://www.icahdq.org/page/ICA2022)
+#### [One World, One Network ‽](https://www.icahdq.org/page/ICA2022), (ICA-72nd, Paris) 
 
 <img src="https://user-images.githubusercontent.com/55648912/206606547-ae6b9ab9-ec34-4b0f-8501-b67b0f28117e.jpg" width="50%" height="50%">
