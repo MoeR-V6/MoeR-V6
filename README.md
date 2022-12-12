@@ -7,6 +7,9 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 ## Qiu Van
 > Qiu focuses on [Alternative Communication](https://hackmd.io/@Qiu-Van), [Indie Rock](https://chiouvan.wixsite.com/artivist/musicproject), and some [Street Stuff](https://www.youtube.com/watch?v=HUmeUiyxzUc). He used to work in the domains of public address, visual design and post-production.
 
+Eduaction
+Department of Computer Simulation Design, Shih Chien University
+
 ---
 
 ## Selected Articles
