@@ -5,7 +5,7 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 <img src="https://user-images.githubusercontent.com/55648912/206408779-03f214a7-2c05-43bd-97d1-ab9fd15d0b1a.png" width="50%" height="50%"> 
 
 ## Qiu Van
-> Qiu focuses on [Alternative Communication](https://matters.news/@Chiouvan), [Indie Rock](https://chiouvan.wixsite.com/artivist/musicproject), and some [Street Stuff](https://www.youtube.com/watch?v=HUmeUiyxzUc). He used to work in the domains of public address, visual design and post-production. 
+> Qiu focuses on [alternative media](https://matters.news/@Chiouvan), [indie rock](https://chiouvan.wixsite.com/artivist/musicproject), and some [street art](https://www.youtube.com/watch?v=HUmeUiyxzUc). He used to work in the domains of public address, visual design and post-production. 
 
 ---
 
