@@ -5,7 +5,7 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 <img src="https://user-images.githubusercontent.com/55648912/206408779-03f214a7-2c05-43bd-97d1-ab9fd15d0b1a.png" width="50%" height="50%"> 
 
 ## Qiu Van
-> Qiu focuses on [Alternative Communication](https://hackmd.io/@Qiu-Van), [Indie Rock](https://chiouvan.wixsite.com/artivist/musicproject), and some [Street Stuff](https://www.youtube.com/watch?v=HUmeUiyxzUc). He used to work in the domains of public address, visual design and post-production. 
+> Qiu focuses on [Alternative Communication]([https://hackmd.io/@Qiu-Van](https://matters.news/@Chiouvan)), [Indie Rock](https://chiouvan.wixsite.com/artivist/musicproject), and some [Street Stuff](https://www.youtube.com/watch?v=HUmeUiyxzUc). He used to work in the domains of public address, visual design and post-production. 
 
 ---
 
@@ -27,4 +27,4 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 
 ## Lecture
 ### **2022**
-- 異域與連結——南中國地方社群的人種學之旅（無牆幼稚園, Hainan）｜(06.08 & 20.08)
+- 異域與連結——南中國地方社群的人種學之旅（無牆幼稚園, Hainan）｜(06.08&20.08)
