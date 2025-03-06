@@ -2,7 +2,7 @@
 Tags: Calligraffiti, Heterotopia, Rhythm, Space
 ---
 
-## Qiu Van
+## [Qiu Van](https://chiouvan.wixsite.com/porfolio)
 
 ---
 
@@ -21,6 +21,14 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 - Communication Research in the Era of Neo-Globalisation (IAMCR, Beijing)｜[Abstract](https://iamcr.org/beijing2022/abstract-books)
 - The intersections of history, culture, digital technology and journalism (HODJ, Budapest) ｜ [Abstract](https://drive.google.com/file/d/1UuTDLLGwZ0i08he9-FOGDMuOze6Nz7Tz/view)
 - [One World, One Network ‽](https://www.icahdq.org/page/ICA2022), (ICA-72nd, Paris) 
+
+### **2023**
+- Communication Research in the Era of Neo-Globalisation (IAMCR, Beijing)｜[Abstract](https://iamcr.org/beijing2022/abstract-books)
+- The intersections of history, culture, digital technology and journalism (HODJ, Budapest) ｜ [Abstract](https://drive.google.com/file/d/1UuTDLLGwZ0i08he9-FOGDMuOze6Nz7Tz/view)
+- [One World, One Network ‽](https://www.icahdq.org/page/ICA2022), (ICA-72nd, Paris) 
+
+### **2024**
+- Speculative Future: On the Techno-Poetic Histories, Deep Time, and Spatial Practices for Infrastructure. AAS-in Asia 2024｜[Abstract](https://asianstudies.confex.com/asianstudies/asia2024/meetingapp.cgi/Paper/12345)
 
 ## Lecture
 ### **2022**
