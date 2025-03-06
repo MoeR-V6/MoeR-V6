@@ -4,6 +4,8 @@ Tags: Calligraffiti, Heterotopia, Rhythm, Space
 
 ## [Qiu Van](https://chiouvan.wixsite.com/porfolio)
 
+* ​​MoeR specializes in media studies and digital design. His artistic project delves into the intersection of spatial theory and community communication, drawing on phenomenology, semiotics, mythology, and empirical studies. As a musician, he has collaborated with bands and artists across different genre.​​​​
+​** Chiouvan@protonmail.com
 ---
 
 ## Selected Works
